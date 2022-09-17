@@ -10,7 +10,8 @@ Develop a daily task  application like google tasks. Following are the minimum r
 
 ## Deliverables 
 1. Architecture Block Diagram 
-2. You can use either MERN,MEAN or Django stack for development.
+2. You can use either MERN,MEAN or Django stack for development
+3. Design the app for atleast 3 concurrent/parallel users
 3. Modular coding with proper comments 
 4. Dockerised the code and  upload in your github and share the link 
 5. Selected candidates will be called for face to face session
